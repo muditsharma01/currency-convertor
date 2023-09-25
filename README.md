@@ -1,8 +1,34 @@
-# React + Vite
+# Currency Converter - Fast and Easy Currency Exchange Rates
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to our Currency Converter – your one-stop solution for quick and convenient currency conversions! Whether you're planning a trip, managing international investments, or simply curious about currency values, our user-friendly app has got you covered.
 
-Currently, two official plugins are available:
+![Currency Converter Demo](demo.gif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Key Features
+
+- **Real-Time Exchange Rates:** Access up-to-the-minute currency exchange rates for over 150 world currencies, ensuring you always have the latest and most accurate information at your fingertips.
+
+- **Intuitive Interface:** Our intuitive and sleek design makes currency conversion a breeze. Just enter the amount, select the source currency, choose your desired destination currency, and hit 'Convert.' It's that simple!
+
+![Conversion Demo](conversion.gif)
+
+- **Currency Swapping:** With a single click, you can switch between your source and destination currencies to calculate conversions in both directions effortlessly.
+
+![Swap Demo](swap.gif)
+
+- **Built-in Currency Info:** Gain insights into each currency, including its symbol, full name, and current exchange rate.
+
+- **Responsive and Accessible:** Our app is designed to work flawlessly on both desktop and mobile devices, ensuring you can access it anytime, anywhere.
+
+- **Tailwind CSS Styling:** Enjoy a visually appealing and modern design with smooth animations and transitions, making your currency conversion experience not only functional but also visually delightful.
+
+![Responsive Design](responsive.gif)
+
+## Getting Started
+
+Experience the future of currency conversion with our Currency Converter app. To get started:
+
+1. Clone the repository to your local machine.
+
+   ```bash
+   git clone https://github.com/muditsharma01/currency-converter.git
